@@ -1,8 +1,10 @@
 ### Hi there 👋
-My name is Tinashe Chamisa, 19050412
+My name is Tinashe Chamisa,
 I am a student at the University of Pretoria, studying Bsc Computer Science.
 
 My Linkedin: www.linkedin.com/in/tinashe-chamisa
+Professional skills: Software Developer(Java, C++, C#, Python, HTML, Javascript, 
+Previous Work experince: Junior Software Developer at BT Industrial
 <!--
 **slickjumper/slickjumper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
