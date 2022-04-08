@@ -1,6 +1,6 @@
 ### Hi there 👋
 My name is Tinashe Chamisa,
-I am a student at the University of Pretoria, studying Bsc Computer Science.
+I am a Graduate Cloud Support Associate at AWS
 
 My Linkedin: www.linkedin.com/in/tinashe-chamisa
 
